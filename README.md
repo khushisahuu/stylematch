@@ -61,7 +61,7 @@ stylematch/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stylematch.git
+git clone https://github.com/khushisahuu/stylematch.git
 cd stylematch
 
 # Install dependencies
